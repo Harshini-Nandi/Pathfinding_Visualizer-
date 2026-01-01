@@ -72,9 +72,5 @@ Pathfinding-Visualizer/
 ├── algorithms.py
 ├── constants.py
 ├── README.md
-├── .gitignore
-│
-└── assets/
-    └── demo.png   (optional)
 
 
