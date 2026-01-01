@@ -36,6 +36,8 @@ Separation of GUI logic and algorithm logic for maintainability
 | Green      | Start node      |
 | Red        | End node        |
 | Light Blue | Visited nodes   |
+
+
 🧪 How to Use:
 1. Run the application
 2. First click → Set the Start node
